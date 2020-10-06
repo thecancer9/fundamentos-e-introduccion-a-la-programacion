@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TanqueAgua
+comment1.params=
+comment1.target=TanqueAgua()
+comment2.params=
+comment2.target=int\ cantTurrilesNecesarios()
+comment3.params=
+comment3.target=int\ getCantAgua()
+comment4.params=nCapacidad
+comment4.target=void\ setCapacidad(int)
+comment5.params=nCantAgua
+comment5.target=void\ setCantAgua(int)
+numComments=6
