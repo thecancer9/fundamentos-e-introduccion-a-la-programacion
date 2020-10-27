@@ -1,0 +1,11 @@
+UNIDAD 4 PROGRAMACION ORIENTADA A OBJETOS
+CLASE : es la representacion abstracta de un modelo que queremos representar  combinacion de atributos y metodos
+
+OBJETO: o instancia, es un elemento tangible generado a partir de la clase, es la materializacion de una clase
+
+Elementos de una clase: Nombre Atributos, operaciones propiedades metodos
+
+Nombres de la clase debe empezar con Mayuscula para diferenciar de los atributos
+Metodos se pueden traducir como el comportamiento que tendran los objetos pertenecientes a una clase, son acciones que pueden o no devolver algo tras su llamada
+
+constructor es el que crea los objetos de la clase
