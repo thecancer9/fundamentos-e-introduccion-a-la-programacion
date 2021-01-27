@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=nom\ sexo
+comment1.target=Persona(java.lang.String,\ char)
+comment2.params=
+comment2.target=char\ getSexo()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=p
+comment4.target=void\ agregarAmigos(Persona)
+comment5.params=
+comment5.target=void\ mostrarFem()
+comment6.params=
+comment6.target=java.lang.String\ mostrarDatos()
+comment7.params=nom
+comment7.target=int\ cantPersoMismoNombre(java.lang.String)
+comment8.params=
+comment8.target=void\ listaAmigos()
+numComments=9

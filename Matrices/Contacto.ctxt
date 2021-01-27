@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Contacto
+comment1.params=numeroCelular\ cap
+comment1.target=Contacto(int,\ int)
+comment2.params=
+comment2.target=void\ codificar()
+comment3.params=
+comment3.target=void\ decodificar()
+comment4.params=msj
+comment4.target=void\ escribirSMS(java.lang.String)
+comment5.params=c
+comment5.target=void\ enviarSMS(Contacto)
+comment6.params=msj
+comment6.target=void\ recibirSMS(java.lang.String)
+comment7.params=
+comment7.target=void\ revisarBandeja()
+numComments=8
